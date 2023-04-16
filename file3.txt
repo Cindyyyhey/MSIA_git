@@ -1,2 +1,3 @@
 write in device2
 dafadfadf
+also write in the change device 2
