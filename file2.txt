@@ -1,0 +1,2 @@
+write in file 2: device1 branch  f
+new write
