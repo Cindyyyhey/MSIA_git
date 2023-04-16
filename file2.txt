@@ -1,4 +1,5 @@
 write in file 2: device1 branch  f
 write in device1 sdfuh
 new write write on device2
+also change new write also write here hello
 write in device1 hell0
