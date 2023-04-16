@@ -1,1 +1,2 @@
 write in device2
+also write in device 2
